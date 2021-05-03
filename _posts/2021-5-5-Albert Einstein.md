@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Savannah Pobre
-author: José Pablo Fernández García
+author2: José Pablo Fernández García
 excerpt_separator: <!--more-->
 title: Albert Einstein
 ---

@@ -14,6 +14,14 @@ layout: default
     {% endif %}
     {% endfor %}
     </span></span>
+  {% endif %} &
+    {% if page.author %}<span itemprop="author2" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+    {% for person in site.people %}
+    {% if person.name == page.author %}
+    <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+    {% endif %}
+    {% endfor %}
+    </span></span>
   {% endif %}</p>
   </header>
 
