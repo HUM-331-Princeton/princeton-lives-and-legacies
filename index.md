@@ -17,7 +17,7 @@ TK insert story map embed code
 
       <header class="post-header">
       <h2 class="post-title"><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
-      <h4>By {{ post.author }} on {{ post.date | date: "%B %e, %Y" }}</h4>
+      <h4>By {{ post.author1 }} & {{ post.author2 }} on {{ post.date | date: "%B %e, %Y" }}</h4>
       </header>
 
       <div class="entry">
