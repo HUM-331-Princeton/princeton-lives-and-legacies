@@ -7,18 +7,18 @@ layout: default
   <header class="post-header">
     <h2 class="post-title" itemprop="name headline">{{ page.title | escape }}</h2>
     <p class="post-meta"> By
-    {% if page.author %}<span itemprop="author1" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+    {% if page.author1 %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
     {% for person in site.people %}
-    {% if person.name == page.author %}
-    <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+    {% if person.name == page.author1 %}
+    <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author1 }}</a>
     {% endif %}
     {% endfor %}
     </span></span>
   {% endif %} &
-    {% if page.author %}<span itemprop="author2" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+    {% if page.author2 %}<span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
     {% for person in site.people %}
-    {% if person.name == page.author %}
-    <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author }}</a>
+    {% if person.name == page.author2 %}
+    <a href="{{ site.baseurl }}{{ person.url }}">{{ page.author2 }}</a>
     {% endif %}
     {% endfor %}
     </span></span>
