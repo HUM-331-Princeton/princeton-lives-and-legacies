@@ -1,6 +1,7 @@
 ---
 layout: post
-author: Savannah Pobre & José Pablo Fernández García
+author1: Savannah Pobre
+author2: José Pablo Fernández García
 excerpt_separator: <!--more-->
 title: Toni Morrison
 ---
