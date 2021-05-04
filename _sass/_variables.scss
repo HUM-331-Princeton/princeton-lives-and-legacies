@@ -18,6 +18,7 @@ $white: #fff;
 $helvetica: Helvetica, Arial, sans-serif;
 $helveticaNeue: "Helvetica Neue", Helvetica, Arial, sans-serif;
 $georgia: Georgia, serif;
+$oldstandardTT: 'Old Standard TT', serif;
 
 // Mobile breakpoints
 @mixin mobile {
@@ -25,3 +26,5 @@ $georgia: Georgia, serif;
     @content;
   }
 }
+
+@import url('https://fonts.googleapis.com/css2?family=Old+Standard+TT:ital,wght@0,400;0,700;1,400&display=swap');
