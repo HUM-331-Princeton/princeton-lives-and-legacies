@@ -14,7 +14,3 @@ A place to include any other types of information that you'd like to include abo
 [Savannah Pobre](https://hum-331-princeton.github.io/princeton-lives-and-legacies/people/Savannah%20Pobre/)
 
 [José Pablo Fernández García](https://hum-331-princeton.github.io/princeton-lives-and-legacies/people/José%20Pablo%20Fernández%20García/)
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
