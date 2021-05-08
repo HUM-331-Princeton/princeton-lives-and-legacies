@@ -8,6 +8,8 @@ The Princeton Lives and Legacies project was created by Savannah Pobre and José
 
 A special thanks goes to Professor Melissa Reynolds and Kristen Starkowski for mentorship during the semester and process of creating this digital platform.
 
+All photographs included in this project were taken by and belong to either José Pablo Fernández García or Savannah Pobre.
+
 ### Contributors ###
 [Savannah Pobre](https://hum-331-princeton.github.io/princeton-lives-and-legacies/people/Savannah%20Pobre/)
 

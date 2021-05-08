@@ -17,6 +17,8 @@ The son of a controversial member of Princeton’s history, John Maclean Jr. was
 ### "A Severe Loss" And The Beginnings Of Alumni Relations ###
 About a month after Maclean's death *The Daily Princetonian* published a [tribute](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18860917-01.2.2&e=-------en-20--1--txt-txIN-------) to him, characterizing his death as "a severe loss" for the Princeton community. It traced his life from his Scottish ancestry through his many promotions at Princeton, including his long presidency. The tribute then turns to his contributions beyond Princeton, including as a regent of the Smithsonian Institute. In terms of a Princeton legacy, the tribute describes Maclean as a president who presided over "a period of great advancement." However, it's Maclean's briefly mentioned role as President of the College Alumni Association that his legacy may be most visible at Princeton today.
 
+![Maclean House]({{ site.baseurl }}/images/Maclean House.jpeg)
+
 In fact, the John Maclean House (the building marked on this project's Story Map for Maclean) has housed the Alumni Association since 1968. It's a fitting name and use given all their ties to Maclean. He was the last president to live their for his entire term. (President McCosh moved to Prospect house during his term.) Plus, Maclean was not only the president of the alumni association but in fact also founded it. With this in mind, in some ways, the annual, quintessential Princeton Reunions are also indirectly a part of Maclean's legacy that continues on the campus today.
 
 Overall, Maclean's legacy at Princeton isn't one to currently draw as much attention as some of the others featured in this project. Still, this doesn't mean his legacy is entirely insulated either given his tenure as president during the Civil War and his complicated relationship with slavery and southern interests at Princeton. But for now, Maclean's old house remains the center for alumni life on campus.
@@ -27,5 +29,7 @@ Overall, Maclean's legacy at Princeton isn't one to currently draw as much atten
 “1756: President’s (Maclean) House - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/a1a8ebdd-9f18-4a2a-aba2-9d4a03f08752).
 
 Hollander, Craig. “John Maclean Jr. and Princeton’s Commitment to Sectional Harmony.” [Link](https://slavery.princeton.edu/stories/john-maclean-jr).
+
+Maclean, John. “American Colonization Society Fundraising Notice.” The Princeton PRess. November 14, 1874. [Link](https://slavery.princeton.edu/sources/american-colonization-society-fundraising-notice).
 
 “Princetonian 17 September 1886 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18860917-01.1.1).
