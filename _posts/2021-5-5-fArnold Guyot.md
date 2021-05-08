@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 title: Arnold Guyot
 ---
 
-A Swiss geologist, Guyot's contributions to science and Princeton meant he left a great mark on the campus. From a museum to a boulder memorial to a hall that were all created over a century ago, Guyot's legacy has remained fairly stable for since then. In recent years, however, Guyot's legacy is facing relocation and rethinking. <!--more-->
+A Swiss geologist, Guyot's contributions to science and Princeton meant he left a great mark on the campus. From a museum to a boulder memorial to a hall that were all created over a century ago, Guyot's legacy has remained fairly stable since then. In recent years, however, Guyot's legacy is facing relocation and rethinking. <!--more-->
 
 ### Guyot's Life, Briefly ###
 Arnold Guyot was a Swiss-American geologist and geographer born on September 28th, 1807. Throughout his lifetime he dedicated his time and talents to the study of geology and the pursuit of education. First a professor at the Neuchâtel Academy, he then settled in Massachusetts where he served on the Massachusetts Board of Education. His final professional move relocated him to Princeton where he became a professor and ultimately developed topological maps of regions such as the Appalachian and Catskill Mountains. He died on February 8th of 1884 in Princeton, NJ and was remembered by his colleagues for the impact of his work and as a religious man. His life work led to the founding of the U.S. Weather Bureau and he is survived by the term guyot in textbooks (a volcanic peak rising from the ocean shore), Guyot hall located on Princeton’s campus, as well as through his family lineage and influence over the students he inspired.
