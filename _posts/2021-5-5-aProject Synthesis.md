@@ -6,6 +6,7 @@ excerpt_separator: <!--more-->
 title: Project Synthesis
 ---
 
-### Who do we choose from history to build a legacy for, and why? ###
+### Who do we choose from history to build a legacy for, and why? ### <!--more-->
 
-This page includes our answers to this question after we finalized this digital project. 
+
+This page includes our answers to this question after we finalized this digital project.
