@@ -34,9 +34,9 @@ Encyclopedia Britannica. “Arnold Henry Guyot - American Geologist.” [Link](h
 
 “Daily Princetonian 1 May 1909 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19090501-01.2.34).
 
-Princeton Alumni Weekly. “Geoscientists Explore Scientific Racism in the Teachings of a Princeton Pioneer,” January 1, 2021. [Link](https://paw.princeton.edu/article/geoscientists-explore-scientific-racism-teachings-princeton-pioneer).
+Michaels, Marissa. “Gift from Wendy and Eric Schmidt ’76 Will Consolidate Computer Science Department by 2026,” May 30, 2019. [Link](https://www.dailyprincetonian.com/article/2019/05/gift-from-eric-and-wendy-schmidt-will-consolidate-computer-science-department-by-2026).
 
-The Princetonian. “Gift from Wendy and Eric Schmidt ’76 Will Consolidate Computer Science Department by 2026,” May 30, 2019. [Link](https://www.dailyprincetonian.com/article/2019/05/gift-from-eric-and-wendy-schmidt-will-consolidate-computer-science-department-by-2026).
+Princeton Alumni Weekly. “Geoscientists Explore Scientific Racism in the Teachings of a Princeton Pioneer,” January 1, 2021. [Link](https://paw.princeton.edu/article/geoscientists-explore-scientific-racism-teachings-princeton-pioneer).
 
 Harvard University., and Harvard University. Asa Gray Correspondence Files of the Gray Herbarium, 1839. [Link](https://www.biodiversitylibrary.org/item/222878).
 

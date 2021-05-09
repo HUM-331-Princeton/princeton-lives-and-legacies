@@ -30,6 +30,6 @@ Overall, Maclean's legacy at Princeton isn't one to currently draw as much atten
 
 Hollander, Craig. “John Maclean Jr. and Princeton’s Commitment to Sectional Harmony.” [Link](https://slavery.princeton.edu/stories/john-maclean-jr).
 
-Maclean, John. “American Colonization Society Fundraising Notice.” The Princeton PRess. November 14, 1874. [Link](https://slavery.princeton.edu/sources/american-colonization-society-fundraising-notice).
+Maclean, John. “American Colonization Society Fundraising Notice.” The Princeton Press. November 14, 1874. [Link](https://slavery.princeton.edu/sources/american-colonization-society-fundraising-notice).
 
 “Princetonian 17 September 1886 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18860917-01.1.1).
