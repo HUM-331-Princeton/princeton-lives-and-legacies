@@ -4,9 +4,9 @@ title: About
 permalink: /about/
 ---
 
-The Princeton Lives and Legacies project was created by Savannah Pobre and José Pablo Fernández García as the final project for HUM 331, A History of Words: Technologies of Communication from Cuneiform to Coding during the Spring 2021 semester.
+The Princeton Lives and Legacies project was created by Savannah Pobre and José Pablo Fernández García as the final project for the HUM 331 course, A History of Words: Technologies of Communication from Cuneiform to Coding, during the Spring 2021 semester.
 
-A special thanks goes to Professor Melissa Reynolds and Kristen Starkowski for mentorship during the semester and process of creating this digital platform.
+A special thanks goes to Professor Melissa Reynolds and Kristen Starkowski for mentorship during the semester and the process of creating this digital platform.
 
 All photographs included in this project were taken by and belong to either José Pablo Fernández García or Savannah Pobre.
 
