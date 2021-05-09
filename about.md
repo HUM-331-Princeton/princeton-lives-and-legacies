@@ -16,34 +16,37 @@ All photographs included in this project were taken by and belong to either Jos�
 [José Pablo Fernández García](https://hum-331-princeton.github.io/princeton-lives-and-legacies/people/José%20Pablo%20Fernández%20García/)
 
 ### References ###
-“1836: West College (Morrison Hall) - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/67e32092-6793-4e0f-8a44-ce345825fe95).
+#### Arnold Guyot ####
+Princeton Alumni Weekly. “Arnold Henri Guyot,” June 8, 2018. [Link](https://paw.princeton.edu/article/arnold-henri-guyot).
 
-NPR.org. “‘I Regret Everything’: Toni Morrison Looks Back On Her Personal Life.” January 22, 2016. [Link](https://www.npr.org/2016/01/22/463901896/i-regret-everything-toni-morrison-looks-back-on-her-personal-life).
+Encyclopedia Britannica. “Arnold Henry Guyot - American Geologist.” [Link](https://www.britannica.com/biography/Arnold-Henry-Guyot).
 
-Princeton University. “Princeton Dedicates Morrison Hall in Honor of Nobel Laureate and Emeritus Faculty Member Toni Morrison,” November 20, 2017. [Link](https://www.princeton.edu/news/2017/11/20/princeton-dedicates-morrison-hall-honor-nobel-laureate-and-emeritus-faculty-member).
+“Daily Princetonian 1 May 1909 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19090501-01.2.34).
 
-Shen, Allan. “‘Beloved’ Author and U. Professor Toni Morrison Dies at 88.” The Princetonian, August 6, 2019. [Link](https://www.dailyprincetonian.com/article/2019/08/toni-morrison-dies).
+Princeton Alumni Weekly. “Geoscientists Explore Scientific Racism in the Teachings of a Princeton Pioneer,” January 1, 2021. [Link](https://paw.princeton.edu/article/geoscientists-explore-scientific-racism-teachings-princeton-pioneer).
 
-Tam, Katie. “‘Beloved’ Author and U. Professor Toni Morrison Dies at 88.” The Princetonian, September 12, 2019. [Link](https://www.dailyprincetonian.com/article/2019/09/beloved-author-and-u-professor-toni-morrison-dies-at-88).
+The Princetonian. “Gift from Wendy and Eric Schmidt ’76 Will Consolidate Computer Science Department by 2026,” May 30, 2019. [Link](https://www.dailyprincetonian.com/article/2019/05/gift-from-eric-and-wendy-schmidt-will-consolidate-computer-science-department-by-2026).
 
-Encyclopedia Britannica. “Toni Morrison - Biography, Books, & Facts.” [Link](https://www.britannica.com/biography/Toni-Morrison).
+Harvard University., and Harvard University. Asa Gray Correspondence Files of the Gray Herbarium, 1839. [Link](https://www.biodiversitylibrary.org/item/222878).
 
-Princeton University. “Toni Morrison, Nobel-Winning Author and Emeritus Princeton Faculty Member, Dies at 88,” August 6, 2019. [Link](https://www.princeton.edu/news/2019/08/06/toni-morrison-nobel-winning-author-and-emeritus-princeton-faculty-member-dies-88).
+“Princetonian 15 February 1884 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18840215-01.2.12).
 
-“Albert Einstein - Biography, Education, Discoveries, & Facts - Britannica.” [Link](https://www.britannica.com/biography/Albert-Einstein).
+Volume, National Academy of Sciences (US) Committee on the Preparation of the Semi-Centennial. BIOGRAPHICAL SKETCHES OF THE INCORPORATORS. A History of the First Half-Century of the National Academy of Sciences: 1863–1913. National Academies Press (US), 1913. [Link](http://www.ncbi.nlm.nih.gov/books/NBK221935/).
 
-“Albert Einstein - Historical Society of Princeton.” [Link](https://princetonhistory.org/research/historic-princeton/albert-einstein/).
 
-“Albert Einstein’s ‘God Letter’ Sells for $2.9m.” BBC News, December 4, 2018, sec. US & Canada. [Link](https://www.bbc.com/news/world-us-canada-46438116).
+#### John Maclean, Jr. ####
+“10. Maclean, John Jr., Class of 1816 - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/493a14e7-a4b3-48a9-a777-41a109021e59).
 
-Barron, James. “Einstein’s ‘God Letter,’ a Viral Missive From 1954.” The New York Times, December 2, 2018, sec. New York. [Link](https://www.nytimes.com/2018/12/02/nyregion/einstein-god-letter-auction.html).
+“1756: President’s (Maclean) House - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/a1a8ebdd-9f18-4a2a-aba2-9d4a03f08752).
 
-“Daily Princetonian 19 April 1955 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19550419-01).
+Hollander, Craig. “John Maclean Jr. and Princeton’s Commitment to Sectional Harmony.” [Link](https://slavery.princeton.edu/stories/john-maclean-jr).
 
-“Daily Princetonian Extra! Einstein Dies! 18 April 1955 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19550418-02.1.1).
+Maclean, John. “American Colonization Society Fundraising Notice.” The Princeton PRess. November 14, 1874. [Link](https://slavery.princeton.edu/sources/american-colonization-society-fundraising-notice).
 
-“Palmer Physical Laboratory (Photo Early 20th Century) - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/347682f7-888f-4f3d-9760-4b41e5bf0a76).
+“Princetonian 17 September 1886 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18860917-01.1.1).
 
+
+#### Woodrow Wilson ####
 “Daily Princetonian 4 February 1924 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19240204-01.1.1).
 
 Daily Princetonian Staff, Ellen Li, Omar Farah, Kenny Peng, and Ananya Grover. “The BJL Sit-in Five Years Later.” [Link](https://projects.dailyprincetonian.com/black-justice-league-princeton-nassau-hall-sit-in/index.html).
@@ -62,28 +65,32 @@ The White House. “Woodrow Wilson.” [Link](https://www.whitehouse.gov/about-t
 
 “Woodrow Wilson Award - Princeton Alumni.” [Link](https://alumni.princeton.edu/our-community/awards/woodrow-wilson-award).
 
-“10. Maclean, John Jr., Class of 1816 - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/493a14e7-a4b3-48a9-a777-41a109021e59).
+#### Albert Einstein ####
+“Albert Einstein - Biography, Education, Discoveries, & Facts - Britannica.” [Link](https://www.britannica.com/biography/Albert-Einstein).
 
-“1756: President’s (Maclean) House - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/a1a8ebdd-9f18-4a2a-aba2-9d4a03f08752).
+“Albert Einstein - Historical Society of Princeton.” [Link](https://princetonhistory.org/research/historic-princeton/albert-einstein/).
 
-Hollander, Craig. “John Maclean Jr. and Princeton’s Commitment to Sectional Harmony.” [Link](https://slavery.princeton.edu/stories/john-maclean-jr).
+“Albert Einstein’s ‘God Letter’ Sells for $2.9m.” BBC News, December 4, 2018, sec. US & Canada. [Link](https://www.bbc.com/news/world-us-canada-46438116).
 
-Maclean, John. “American Colonization Society Fundraising Notice.” The Princeton PRess. November 14, 1874. [Link](https://slavery.princeton.edu/sources/american-colonization-society-fundraising-notice).
+Barron, James. “Einstein’s ‘God Letter,’ a Viral Missive From 1954.” The New York Times, December 2, 2018, sec. New York. [Link](https://www.nytimes.com/2018/12/02/nyregion/einstein-god-letter-auction.html).
 
-“Princetonian 17 September 1886 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18860917-01.1.1).
+“Daily Princetonian 19 April 1955 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19550419-01).
 
-Princeton Alumni Weekly. “Arnold Henri Guyot,” June 8, 2018. [Link](https://paw.princeton.edu/article/arnold-henri-guyot).
+“Daily Princetonian Extra! Einstein Dies! 18 April 1955 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19550418-02.1.1).
 
-Encyclopedia Britannica. “Arnold Henry Guyot - American Geologist.” [Link](https://www.britannica.com/biography/Arnold-Henry-Guyot).
+“Palmer Physical Laboratory (Photo Early 20th Century) - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/347682f7-888f-4f3d-9760-4b41e5bf0a76).
 
-“Daily Princetonian 1 May 1909 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian19090501-01.2.34).
+#### Toni Morrison ####
+“1836: West College (Morrison Hall) - Princetoniana Museum.” [Link](https://www.princetonianamuseum.org/artifact/67e32092-6793-4e0f-8a44-ce345825fe95).
 
-Princeton Alumni Weekly. “Geoscientists Explore Scientific Racism in the Teachings of a Princeton Pioneer,” January 1, 2021. [Link](https://paw.princeton.edu/article/geoscientists-explore-scientific-racism-teachings-princeton-pioneer).
+NPR.org. “‘I Regret Everything’: Toni Morrison Looks Back On Her Personal Life.” January 22, 2016. [Link](https://www.npr.org/2016/01/22/463901896/i-regret-everything-toni-morrison-looks-back-on-her-personal-life).
 
-The Princetonian. “Gift from Wendy and Eric Schmidt ’76 Will Consolidate Computer Science Department by 2026,” May 30, 2019. [Link](https://www.dailyprincetonian.com/article/2019/05/gift-from-eric-and-wendy-schmidt-will-consolidate-computer-science-department-by-2026).
+Princeton University. “Princeton Dedicates Morrison Hall in Honor of Nobel Laureate and Emeritus Faculty Member Toni Morrison,” November 20, 2017. [Link](https://www.princeton.edu/news/2017/11/20/princeton-dedicates-morrison-hall-honor-nobel-laureate-and-emeritus-faculty-member).
 
-Harvard University., and Harvard University. Asa Gray Correspondence Files of the Gray Herbarium, 1839. [Link](https://www.biodiversitylibrary.org/item/222878).
+Shen, Allan. “‘Beloved’ Author and U. Professor Toni Morrison Dies at 88.” The Princetonian, August 6, 2019. [Link](https://www.dailyprincetonian.com/article/2019/08/toni-morrison-dies).
 
-“Princetonian 15 February 1884 — Princeton Periodicals.” [Link](https://papersofprinceton.princeton.edu/princetonperiodicals/?a=d&d=Princetonian18840215-01.2.12).
+Tam, Katie. “‘Beloved’ Author and U. Professor Toni Morrison Dies at 88.” The Princetonian, September 12, 2019. [Link](https://www.dailyprincetonian.com/article/2019/09/beloved-author-and-u-professor-toni-morrison-dies-at-88).
 
-Volume, National Academy of Sciences (US) Committee on the Preparation of the Semi-Centennial. BIOGRAPHICAL SKETCHES OF THE INCORPORATORS. A History of the First Half-Century of the National Academy of Sciences: 1863–1913. National Academies Press (US), 1913. [Link](http://www.ncbi.nlm.nih.gov/books/NBK221935/).
+Encyclopedia Britannica. “Toni Morrison - Biography, Books, & Facts.” [Link](https://www.britannica.com/biography/Toni-Morrison).
+
+Princeton University. “Toni Morrison, Nobel-Winning Author and Emeritus Princeton Faculty Member, Dies at 88,” August 6, 2019. [Link](https://www.princeton.edu/news/2019/08/06/toni-morrison-nobel-winning-author-and-emeritus-princeton-faculty-member-dies-88).
